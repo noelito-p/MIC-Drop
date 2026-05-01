@@ -1,4 +1,3 @@
 # MIC-Drop
 
-Repository for MIC-drop team in University of Warwick Bioimage Hackathon 2026
-Exploring antibiotic image screen dataset
+Repository for MIC-drop team in University of Warwick Bioimage Hackathon 2026, exploring an antibiotic image screen dataset
