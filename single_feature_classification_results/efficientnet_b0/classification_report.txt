@@ -1,0 +1,38 @@
+                     precision    recall  f1-score   support
+
+            A22_05x       0.72      0.67      0.69      1305
+             A22_2x       0.66      0.56      0.61      1193
+     Ampicillin_05x       0.82      0.76      0.79       372
+      Ampicillin_2x       0.81      0.78      0.80       381
+              Blank       0.00      0.00      0.00         0
+Chloramphenicol_05x       0.67      0.78      0.72       361
+ Chloramphenicol_2x       0.81      0.68      0.74       460
+            Control       0.88      0.91      0.89      2263
+     Gramacidin_05x       0.80      0.74      0.77      1247
+      Gramacidin_2x       0.89      0.88      0.89       336
+      Gramacidin_5x       0.94      0.93      0.93       295
+      Kanamycin_05x       0.60      0.64      0.62      1933
+       Kanamycin_2x       0.81      0.81      0.81      1319
+     Mecillinam_05x       0.67      0.72      0.70      1815
+      Mecillinam_2x       0.78      0.78      0.78      1029
+      Mecillinam_5x       0.73      0.76      0.74      1703
+ Naladixic_acid_05x       0.76      0.76      0.76       989
+  Naladixic_acid_2x       0.82      0.84      0.83      1013
+          Nisin_05x       0.74      0.74      0.74       897
+           Nisin_2x       0.86      0.94      0.90       423
+           Nisin_5x       0.96      0.96      0.96       877
+     Novobiocin_05x       0.95      0.93      0.94       714
+      Novobiocin_2x       0.90      0.89      0.90       225
+            PMB_05x       0.53      0.58      0.56      1807
+             PMB_2x       0.81      0.77      0.79      1182
+             PMB_5x       0.84      0.68      0.75       119
+     Rifampicin_05x       0.89      0.95      0.92       349
+      Rifampicin_2x       0.78      0.70      0.73       282
+      Rifampicin_5x       0.78      0.82      0.80       522
+      Triclosan_05x       0.83      0.83      0.83       938
+       Triclosan_2x       0.86      0.78      0.82       726
+       Triclosan_5x       0.82      0.73      0.77       403
+
+           accuracy                           0.76     27478
+          macro avg       0.77      0.76      0.76     27478
+       weighted avg       0.77      0.76      0.76     27478

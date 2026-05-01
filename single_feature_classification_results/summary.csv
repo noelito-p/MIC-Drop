@@ -1,0 +1,7 @@
+feature_name,input_dim,best_epoch,best_val_acc,test_acc,macro_f1,weighted_f1,result_dir
+densenet121,4096,12,0.8145789358759735,0.8111580173229492,0.834033084494084,0.8111433731651065,..\output\single_feature_classification_results\densenet121
+vit_b_16,3072,43,0.8038430744595677,0.8033699687022345,0.8282318586013623,0.8036332821819135,..\output\single_feature_classification_results\vit_b_16
+mobilenet_v3_large,3840,16,0.7660310066234806,0.767850644151685,0.7940522667348764,0.7676806227504825,..\output\single_feature_classification_results\mobilenet_v3_large
+efficientnet_b0,5120,33,0.759516704272509,0.7633015503311741,0.789299699910234,0.7635056305953585,..\output\single_feature_classification_results\efficientnet_b0
+resnet50,8192,9,0.6921901157289468,0.6921901157289468,0.7228650633780095,0.6923573612733633,..\output\single_feature_classification_results\resnet50
+cytoimagenet_efficientnetb0,5120,49,0.5613217847004877,0.5625591382196666,0.5798174412219248,0.5585419443878522,..\output\single_feature_classification_results\cytoimagenet_efficientnetb0

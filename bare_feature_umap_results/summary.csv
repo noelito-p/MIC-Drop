@@ -1,0 +1,7 @@
+feature_name,source,n_samples,n_classes,result_dir
+cytoimagenet_efficientnetb0,test,5000,31,..\output\bare_feature_umap_results\cytoimagenet_efficientnetb0
+densenet121,test,5000,31,..\output\bare_feature_umap_results\densenet121
+efficientnet_b0,test,5000,31,..\output\bare_feature_umap_results\efficientnet_b0
+mobilenet_v3_large,test,5000,31,..\output\bare_feature_umap_results\mobilenet_v3_large
+resnet50,test,5000,31,..\output\bare_feature_umap_results\resnet50
+vit_b_16,test,5000,31,..\output\bare_feature_umap_results\vit_b_16
